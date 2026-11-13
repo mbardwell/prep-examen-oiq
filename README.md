@@ -6,4 +6,9 @@ Simulation d'examen à choix multiples pour l'examen professionnel de l'Ordre de
 
 Site statique (un seul `index.html` et le dossier `img/`), publié avec GitHub Pages.
 
-Outil de révision personnelle, non officiel. Vérifiez toujours dans le guide d'étude de l'OIQ et dans les textes de loi.
+## Avertissement
+
+- **Non vérifié :** le contenu n'a pas été vérifié pour son exactitude.
+- **Aucune affiliation :** ce projet n'est affilié d'aucune façon à l'Ordre des ingénieurs du Québec (OIQ).
+- **À vos propres risques :** vous utilisez ce site à vos propres risques. Vérifiez toujours dans le guide d'étude de l'OIQ et dans les textes de loi.
+- **Matériel utilisé :** rédigé à partir du matériel d'étude pour l'examen de novembre 2026.
